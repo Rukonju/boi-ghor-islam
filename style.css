@@ -1,0 +1,29 @@
+.card-1-bg{
+    background-color: rgb(209, 81, 7);
+}
+.card-2-bg{
+    background-color: rgb(115, 115, 180);
+}
+.card-3-bg{
+    background-color: darkorange;
+}
+
+
+.btn-bg{
+    border: 1px solid black;
+    background-color:none;
+    color: ivory;
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.see-more{
+    border-radius: 5px;
+    color: black;
+    
+}
+body{
+    font-family: 'Galada', cursive;
+}
